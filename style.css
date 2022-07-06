@@ -28,7 +28,7 @@ h1{
   transition-timing-function: linear;
 }
 .boton:hover{
-    width: 350px;
+    width: 300px;
 }
 a{
     color:  #8c725d;
