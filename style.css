@@ -1,0 +1,35 @@
+body{
+    background-color: #FAFDD6 ;
+}
+h1{
+    background-color: #A2B38B ;
+    color: #576740;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+   padding: 15px;
+}
+.boton{
+    background-color: #E6BA95;
+    color: #8c725d;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+   display: flex;
+    justify-content: center;
+    text-align: center;
+  padding: 15px;
+  margin: 40px;
+  float: left;
+  padding-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+}
+.boton:hover{
+    width: 350px;
+}
+a{
+    color:  #8c725d;
+}
